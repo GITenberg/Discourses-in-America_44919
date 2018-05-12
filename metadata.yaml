@@ -1,0 +1,35 @@
+_repo: Discourses-in-America_44919
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44919-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Arnold, Matthew
+    birthdate: 1822
+    deathdate: 1888
+    gutenberg_agent_id: '1401'
+    url: http://www.gutenberg.org/2009/agents/1401
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Arnold
+description: Numbers, or, The majority and the remnant [originally given in New York,
+  afterwards published in the Nineteenth century] -- Literature and science [Rede
+  lecture at Cambridge, recast for delivery in America] -- Emerson [delivered in Boston].
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44919'
+  lccn: '04020111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Democracy'
+- !lcc 'PR'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Literature and science'
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882'
+tableOfContents: Numbers; or, the majority and the remnant -- Literature and science
+  -- Emerson.
+title: Discourses in America
+url: http://www.gutenberg.org/ebooks/44919
